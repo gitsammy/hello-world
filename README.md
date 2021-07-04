@@ -2,8 +2,8 @@
 
 ### Topic
 
-'''
+```
 print("Hello world!")
-'''
+```
 
 
